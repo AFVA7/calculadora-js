@@ -7,13 +7,13 @@
 
 body{
     min-height: 100vh;
-    background-color: #090c31;
+    background-color: #0F0F0F;
     display: grid;
     place-items: center;
 }
 
 .calculadora{
-    background-color: #15173c;
+    background-color: #232D3F;
     color: white;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -26,7 +26,7 @@ body{
 
 .pantalla{
     grid-column: 1/ -1;
-    background-color: #090c31;
+    background-color: #005B41;
     padding: 1.5rem;
     font-size: 2rem;
     text-align: right;
@@ -50,7 +50,7 @@ body{
 
 .btn:hover{
     cursor: pointer;
-    background-color: #090c31;
+    background-color: #008170;
 }
 
 /* #cero{

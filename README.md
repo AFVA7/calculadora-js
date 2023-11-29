@@ -1,4 +1,7 @@
 # Calculadora
+<p align="center" >
+     <img width="300" heigth="300" src="https://github.com/AFVA7/calculadora-js/blob/main/assets/calculadora.png?raw=true">
+</p>
 Esto es una calculadora que puede hacer operaciones aritméticas básicas 
 como sumar, restar, multiplicary dividir. Además calcular porcentajes y el módulo de una división
 
